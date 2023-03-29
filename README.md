@@ -11,7 +11,7 @@
 In the last lesson, we learned about JavaScript `Array`s, including how to
 create them and access their elements. In this lab, we will dive into
 JavaScript's `Array` methods, which enable us to add, remove, and change
-elements.
+elements
 
 We discussed the fact that it's important to pay attention to whether the method
 is _destructive_ (i.e., it _mutates_ the array) or _nondestructive_. Another
